@@ -70,3 +70,26 @@ The screen object represents the physical display screen of the user's device. I
 
 The document object represents the HTML document that is currently being displayed in the browser window. It contains properties and methods related to the document, such as getElementById(), createElement(), addEventListener(), and innerHTML.
 
+
+
+
+Create your own resume data in json format
+{
+    "name": "Devapandian",
+    "age": 26,
+    "city": "paramakudi",
+    "email": "Deva@example.com",
+    "phone": "9790336666",
+    "interests": [
+        "travel",
+        "photography",
+        "reading"
+    ],
+    "education": {
+        "degree": "Bachelor of engineering",
+        "major": "Electronic and communication",
+        "school": "Anna University",
+        "graduation_year": 2018
+    }
+}
+
