@@ -51,3 +51,22 @@ let obj = {
 obj.hobbies.forEach(function(hobby) {
   console.log(hobby);
 });
+
+
+
+
+
+
+
+
+read about the different between window,screen and document in javascript
+
+The window object represents the entire browser window or tab. It is the top-level object in the browser's hierarchy of objects and contains properties and methods related to the current window or tab. Some of the common properties and methods of the window object include location, document, setTimeout(), setInterval(), and alert().
+
+
+The screen object represents the physical display screen of the user's device. It contains properties and methods related to the display screen, such as width, height, colorDepth, and availWidth.
+
+
+
+The document object represents the HTML document that is currently being displayed in the browser window. It contains properties and methods related to the document, such as getElementById(), createElement(), addEventListener(), and innerHTML.
+
